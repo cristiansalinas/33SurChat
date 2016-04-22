@@ -5,11 +5,11 @@ A little light chat
 
 Prueba de conceptos de un pequeño chat hecho con node 0.12, sockjs y angular.
 
-https://github.com/sockjs
-https://angularjs.org/
-https://nodejs.org/
+* https://github.com/sockjs
+* https://angularjs.org/
+* https://nodejs.org/
 
-Instrucciones:
+#### Instrucciones
 
 * Clona el repositorio
 ```
@@ -31,11 +31,11 @@ node server.js
 
 A proof of concept chat for playing with node 0.12, sockjs and angular.
 
-https://github.com/sockjs
-https://angularjs.org/
-https://nodejs.org/
+* https://github.com/sockjs
+* https://angularjs.org/
+* https://nodejs.org/
 
-Instructions:
+#### Instructions
 
 * Clone the repository
 ```
