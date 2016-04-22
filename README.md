@@ -1,7 +1,7 @@
 # 33SurChat
 A little light chat 
 
-=== Spanish ===
+### Spanish
 
 Prueba de conceptos de un pequeño chat hecho con node 0.12, sockjs y angular.
 
@@ -27,7 +27,7 @@ node server.js
 5. Encuentra la felicidad absoluta hablando con tus amigos imaginarios
 
 
-=== English ===
+### English
 
 A proof of concept chat for playing with node 0.12, sockjs and angular.
 
