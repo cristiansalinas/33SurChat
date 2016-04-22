@@ -11,20 +11,20 @@ https://nodejs.org/
 
 Instrucciones:
 
-1. Clona el repositorio
+* Clona el repositorio
 ```
 git clone https://github.com/cristiansalinas/33SurChat.git
 ```
-2. Instala las dependencias
+* Instala las dependencias
 ```
 npm install
 ```
-3. Ejecuta el servidor
+* Ejecuta el servidor
 ```
 node server.js
 ```
-4. Abre el archivo chat.html con tu navegador
-5. Encuentra la felicidad absoluta hablando con tus amigos imaginarios
+* Abre el archivo chat.html con tu navegador
+* Encuentra la felicidad absoluta hablando con tus amigos imaginarios
 
 
 ### English
@@ -37,18 +37,18 @@ https://nodejs.org/
 
 Instructions:
 
-1. Clone the repository
+* Clone the repository
 ```
 git clone https://github.com/cristiansalinas/33SurChat.git
 ```
-2. Install dependencies
+* Install dependencies
 ```
 npm install
 ```
-3. Run the server
+* Run the server
 ```
 node server.js
 ```
-4. Open the chat.html file with your browser
-5. Be happy chatting with your imaginary friends (because you executed locally you dummy)
+* Open the chat.html file with your browser
+* Be happy chatting with your imaginary friends (because you executed locally you dummy)
 
